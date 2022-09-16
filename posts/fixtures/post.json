@@ -1,0 +1,124 @@
+[
+{
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+        "title": "First post!",
+        "content": "This is my very first post! And now he is updated!!",
+        "created": "2022-08-01T23:24:30.187Z",
+        "modified": "2022-08-03T11:29:21.283Z",
+        "author": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+        "title": "Second Post!",
+        "content": "This is crazy! Second Post! Now edited in bootstrap look!",
+        "created": "2022-08-01T23:25:25.687Z",
+        "modified": "2022-08-03T11:29:27.905Z",
+        "author": 2
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 3,
+    "fields": {
+        "title": "Third Post!!!",
+        "content": "Can you believe that?! Third Post!",
+        "created": "2022-08-01T23:25:58.651Z",
+        "modified": "2022-08-03T11:29:31.987Z",
+        "author": 3
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 5,
+    "fields": {
+        "title": "Fourth Post!!!!",
+        "content": "This is amazing! I can put here fourth post! And I did it on web page!",
+        "created": "2022-08-02T17:33:04.355Z",
+        "modified": "2022-08-03T11:29:38.870Z",
+        "author": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 8,
+    "fields": {
+        "title": "The Fifth Post!!!!!",
+        "content": "This is madness... Fifth Post and this one with Author!",
+        "created": "2022-08-02T22:41:07.785Z",
+        "modified": "2022-08-02T22:41:07.785Z",
+        "author": 2
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 9,
+    "fields": {
+        "title": "Sixth Post!!!!!!",
+        "content": "This is Sixth Post! Added with Admin Panel! Just like a Author!",
+        "created": "2022-08-03T14:52:00.433Z",
+        "modified": "2022-08-03T14:52:00.433Z",
+        "author": 4
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 10,
+    "fields": {
+        "title": "Seventh Post!!!!!!!",
+        "content": "OMG 7 posts on my page! Unbelieveble!",
+        "created": "2022-08-05T19:33:25.767Z",
+        "modified": "2022-08-05T19:33:25.767Z",
+        "author": 3
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 11,
+    "fields": {
+        "title": "Eighth post!!!!!!!!",
+        "content": "I cannot breath! Eight posts...",
+        "created": "2022-08-05T19:35:02.175Z",
+        "modified": "2022-08-05T19:35:02.175Z",
+        "author": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 12,
+    "fields": {
+        "title": "Ninth Post!!!!!!!!!",
+        "content": "...",
+        "created": "2022-08-05T19:35:42.917Z",
+        "modified": "2022-08-05T19:35:42.917Z",
+        "author": 4
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 13,
+    "fields": {
+        "title": "The Tenth Post!!!!!!!!!!",
+        "content": "Well, we have a jubilee! Tenth post on the site!",
+        "created": "2022-08-05T19:36:58.918Z",
+        "modified": "2022-08-05T19:36:58.918Z",
+        "author": 3
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 14,
+    "fields": {
+        "title": "Eleventh post!",
+        "content": "This is my very first post added with fixturies!",
+        "created": "2022-08-01T23:24:30.187Z",
+        "modified": "2022-08-03T11:29:21.283Z",
+        "author": 1
+    }
+}
+
+]
